@@ -1,2 +1,3 @@
 Soạn test 1
+Soạn test 2
 Tuong Test 1
