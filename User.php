@@ -208,6 +208,7 @@ class User extends CI_Controller
     $data['class_header'] = 'privacypolocy';
     $this->load->view('master_3', $data);
   }
+  //this story by soan//
   public function employerinformation()
   {
     global $user_news;
