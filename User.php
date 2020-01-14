@@ -9,7 +9,8 @@ include "phpmailer/src/SMTP.php";
 
 use PHPMailer\PHPMailer\Exception;
 use PHPMailer\PHPMailer\PHPMailer;
-
+// Lionel Pham
+// End Lionel Pham
 class User extends CI_Controller
 {
 
